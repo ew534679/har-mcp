@@ -1,4 +1,4 @@
-module github.com/tjamet/har-mcp
+module github.com/ew534679/har-mcp
 
 go 1.24.3
 

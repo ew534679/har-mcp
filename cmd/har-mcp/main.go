@@ -7,10 +7,10 @@ import (
 	"log"
 	"os"
 
+	harParser "github.com/ew534679/har-mcp/pkg/har"
 	"github.com/google/martian/har"
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
-	harParser "github.com/tjamet/har-mcp/pkg/har"
 )
 
 // HARServer implements the MCP server for HAR file analysis
